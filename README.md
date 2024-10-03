@@ -1,0 +1,1 @@
+This project utilizes react in order to create an interactive webpage that calculates what your monthly mortgage payment would be based on the principle remaining on the house, interest rate, and length of the mortgage (15 or 30 years).
